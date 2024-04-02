@@ -1,0 +1,8 @@
+.drawing-board {
+    border: 1px solid #ccc;
+    cursor: crosshair;
+}
+
+.tools {
+    margin-top: 20px;
+}
